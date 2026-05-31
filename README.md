@@ -150,12 +150,19 @@ More apps are coming soon 🚀
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rongo270&show_icons=true&theme=tokyonight&hide_border=true" alt="Ron Golan GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=rongo270&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" 
+    alt="Ron Golan GitHub Stats" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rongo270&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rongo270&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    alt="Top Languages" 
+  />
 </p>
+
 
 ---
 
