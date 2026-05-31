@@ -1,22 +1,32 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,50:0D96F6,100:7F52FF&height=230&section=header&text=Ron%20Golan&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Mobile%20Developer%20%7C%20Android%20%26%20iOS%20%7C%20Firebase%20%7C%20Backend&descAlignY=56&descSize=18"/>
+<h1>Hey, I'm Ron Golan 👋</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=00D084&center=true&vCenter=true&width=900&lines=Building+real-world+mobile+apps;Android+%7C+Kotlin+%7C+Firebase;iOS+%7C+SwiftUI+%7C+App+Store;More+apps+coming+soon" alt="Typing SVG" />
+<h3>Fourth-Year Computer Science Student | Mobile Developer | Android & iOS</h3>
+
+<p>
+  Building real-world mobile apps from idea to release.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Open%20for%20Work-Mobile%20Developer-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Open for Work"/>
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=00D084&center=true&vCenter=true&width=950&lines=Building+real-world+mobile+apps;Open+for+Mobile+Developer+roles;Fourth-year+Computer+Science+student;Android+%7C+Kotlin+%7C+Firebase;iOS+%7C+SwiftUI+%7C+App+Store;More+apps+coming+soon" alt="Typing SVG" />
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/ron-golan-27171028b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Ron%20Golan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://rongo270.github.io/my-portfolio" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://play.google.com/store/apps/developer?id=rongo" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Play-Developer%20Page-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play Developer Page"/>
+  <img src="https://img.shields.io/badge/-Google%20Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
 </a>
 <a href="https://apps.apple.com/us/developer/ron-golan/id6772835016" target="_blank">
-  <img src="https://img.shields.io/badge/App%20Store-Developer%20Page-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store Developer Page"/>
+  <img src="https://img.shields.io/badge/-App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"/>
 </a>
 
 </div>
@@ -28,28 +38,32 @@
     <td width="58%" valign="top">
       <h2>👨‍💻 About Me</h2>
       <p>
-        Hi, I’m <b>Ron Golan</b>, a Computer Science student and mobile developer focused on building complete apps from idea to real release.
+        Hi, I’m <b>Ron Golan</b>, a <b>fourth-year Computer Science student at Afeka College of Engineering</b> and a mobile developer focused on building complete apps from idea to real release.
       </p>
       <p>
         My main focus is <b>Mobile Development</b>, especially Android and iOS apps that combine clean architecture, modern UI, backend integration, cloud services, authentication, data management, and production deployment.
       </p>
       <p>
-        I enjoy building products that are not just code, but complete user experiences with design, logic, data, testing, publishing, and future updates.
+        I enjoy turning ideas into real products with design, logic, data, testing, publishing, and future updates.
       </p>
     </td>
     <td width="42%" valign="top">
       <h2>🎯 Current Focus</h2>
       <p>
-        <b>📱 Android:</b> Kotlin, Android Studio, Firebase
+        <b>📱 Android</b><br/>
+        Kotlin, Android Studio, Firebase
       </p>
       <p>
-        <b>🍎 iOS:</b> Swift, SwiftUI, Xcode
+        <b>🍎 iOS</b><br/>
+        Swift, SwiftUI, Xcode
       </p>
       <p>
-        <b>☁️ Backend:</b> Firebase, Firestore, Python, Flask
+        <b>☁️ Backend</b><br/>
+        Firebase, Firestore, Python, C#, APIs
       </p>
       <p>
-        <b>🚀 Product:</b> Real apps, release flow, store pages, updates
+        <b>💼 Career</b><br/>
+        Open for mobile developer opportunities
       </p>
     </td>
   </tr>
@@ -59,11 +73,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:0D96F6,100:00C853&height=3&section=header"/>
-
 <h1>📱 My First Published App</h1>
 
-<img src="assets/checkchange-icon.png" alt="CheckChange App Icon" width="150"/>
+<img src="assets/checkchange-icon.png" alt="CheckChange App Icon" width="155"/>
 
 <h2>CheckChange</h2>
 
@@ -72,7 +84,12 @@
 </p>
 
 <p>
-  CheckChange helps users estimate real payment costs abroad or online by combining currency conversion, card fees, cash withdrawal costs, discounts, and useful calculation tools.
+  CheckChange helps users estimate the real cost of payments abroad or online.
+</p>
+
+<p>
+  The app combines currency conversion, discounts, cash withdrawal calculations, and one of its key features:
+  <b>card fee calculations that help users understand the real final amount before they pay</b>.
 </p>
 
 </div>
@@ -85,13 +102,16 @@
         Built and published for Android with a real production release flow.
       </p>
       <p>
-        <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase" alt="Android Stack"/>
+        <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" alt="Android Development Icons"/>
       </p>
       <p>
-        <b>Kotlin</b> • <b>Android Studio</b> • <b>Firebase</b>
+        <b>Kotlin</b> • <b>Android Studio</b>
+      </p>
+      <p>
+        Android app development, release preparation, Google Play store page, testing, and updates.
       </p>
       <a href="https://play.google.com/store/apps/details?id=com.rongo.checkchange&pcampaignid=web_share" target="_blank">
-        <img src="https://img.shields.io/badge/Open%20CheckChange-Google%20Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="CheckChange on Google Play"/>
+        <img src="https://img.shields.io/badge/-Open%20on%20Google%20Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="CheckChange on Google Play"/>
       </a>
     </td>
     <td width="50%" align="center" valign="top">
@@ -100,13 +120,16 @@
         Built and published for iOS with clean screens and App Store release flow.
       </p>
       <p>
-        <img src="https://skillicons.dev/icons?i=swift,firebase" alt="iOS Stack"/>
+        <img src="https://skillicons.dev/icons?i=swift" alt="iOS Development Icons"/>
       </p>
       <p>
-        <b>Swift</b> • <b>SwiftUI</b> • <b>App Store</b>
+        <b>Swift</b> • <b>SwiftUI</b>
+      </p>
+      <p>
+        iOS app development, App Store release, interface polish, store assets, testing, and updates.
       </p>
       <a href="https://apps.apple.com/us/app/checkchange/id6772835014" target="_blank">
-        <img src="https://img.shields.io/badge/Open%20CheckChange-App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="CheckChange on App Store"/>
+        <img src="https://img.shields.io/badge/-Open%20on%20App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="CheckChange on App Store"/>
       </a>
     </td>
   </tr>
@@ -146,7 +169,7 @@
       <h2>🏗️</h2>
       <h3>Architecture</h3>
       <p>
-        Clean separation between UI, logic, data, services, repositories, models, and backend communication.
+        Clear separation between UI, logic, data, services, repositories, models, and backend communication.
       </p>
     </td>
     <td width="25%" align="center" valign="top">
@@ -168,73 +191,70 @@
 
 <br/>
 
-<div align="center">
-
-<h1>🛠️ Tech Stack</h1>
-
-<h3>Mobile Development</h3>
-
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,android,swift" alt="Mobile Stack"/>
-
-<br/><br/>
+<h1 align="center">🛠️ Tech Stack</h1>
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <h3>Android</h3>
+    <td width="50%" align="center" valign="top">
+      <h2>📱 Mobile Development</h2>
       <p>
-        Kotlin • Android Studio • Firebase • Google Play Release
+        <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,android,swift" alt="Mobile Development Icons"/>
+      </p>
+      <p>
+        Kotlin • Android Studio • Android • Swift • SwiftUI • Xcode • Google Play • App Store
       </p>
     </td>
-    <td align="center" width="50%">
-      <h3>iOS</h3>
+    <td width="50%" align="center" valign="top">
+      <h2>☁️ Backend & Cloud</h2>
       <p>
-        Swift • SwiftUI • Xcode • App Store Release
+        <img src="https://skillicons.dev/icons?i=firebase,cloudflare,python,cs" alt="Backend and Cloud Icons"/>
+      </p>
+      <p>
+        Firebase • Firestore • Cloudflare • Python • C# • APIs
       </p>
     </td>
   </tr>
 </table>
 
-<h3>Backend, Cloud & Databases</h3>
+<br/>
 
-<img src="https://skillicons.dev/icons?i=firebase,cloudflare,python,flask,mongodb,postgresql" alt="Backend Stack"/>
-
-<br/><br/>
+<h1 align="center">💻 Additional Languages & Tools</h1>
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <h3>Cloud</h3>
+    <td width="33%" align="center" valign="top">
+      <h2>Languages</h2>
       <p>
-        Firebase • Firestore • Cloudflare
+        <img src="https://skillicons.dev/icons?i=java,c,cs,ts,js" alt="Programming Languages Icons"/>
+      </p>
+      <p>
+        Java • C • C# • TypeScript • JavaScript
       </p>
     </td>
-    <td align="center" width="33%">
-      <h3>Backend</h3>
+    <td width="33%" align="center" valign="top">
+      <h2>Databases & Tools</h2>
       <p>
-        Python • Flask • APIs
+        <img src="https://skillicons.dev/icons?i=mongodb,postgresql,git,github,vscode,visualstudio" alt="Databases and Tools Icons"/>
+      </p>
+      <p>
+        MongoDB • PostgreSQL • Git • GitHub • VS Code • Visual Studio
       </p>
     </td>
-    <td align="center" width="33%">
-      <h3>Databases</h3>
+    <td width="33%" align="center" valign="top">
+      <h2>AI Tools</h2>
       <p>
-        Firestore • MongoDB • PostgreSQL
+        <img src="https://img.shields.io/badge/ChatGPT%20%2B%20Codex-111827?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT and Codex"/>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+        <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+      </p>
+      <p>
+        ChatGPT • Codex • Claude • Gemini
       </p>
     </td>
   </tr>
 </table>
-
-</div>
-
-<details>
-  <summary><b>💻 Additional Languages & Tools I’ve Used</b></summary>
-  <br/>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,c,cs,ts,js,nodejs,git,github,vscode,visualstudio" alt="Additional Tools"/>
-    <br/><br/>
-    Java • C • C# • TypeScript • JavaScript • Node.js • Git • GitHub • VS Code • Visual Studio
-  </div>
-</details>
 
 <br/>
 
@@ -293,21 +313,17 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00C853,50:0D96F6,100:7F52FF&height=3&section=header"/>
-
 <h1>🌐 Connect With Me</h1>
 
 <a href="https://www.linkedin.com/in/ron-golan-27171028b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://rongo270.github.io/my-portfolio" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-My%20Website-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
 
 <h3>Thanks for visiting my profile 😊</h3>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,50:0D96F6,100:00C853&height=120&section=footer"/>
 
 </div>
