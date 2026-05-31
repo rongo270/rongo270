@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hey, I'm Ron Golan 👋</h1>
+<h1>Ron Golan</h1>
 
 <h3>Fourth-Year Computer Science Student | Mobile Developer | Android & iOS</h3>
 
@@ -75,7 +75,8 @@
 
 <h1>📱 My First Published App</h1>
 
-<img src="assets/checkchange-icon.png" alt="CheckChange App Icon" width="155"/>
+<img width="200" height="190" alt="checkchange-icon" src="https://github.com/user-attachments/assets/2c19366d-947f-49ad-9f42-3a40e850ecc1" />
+
 
 <h2>CheckChange</h2>
 
@@ -198,10 +199,10 @@
     <td width="50%" align="center" valign="top">
       <h2>📱 Mobile Development</h2>
       <p>
-        <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,android,swift" alt="Mobile Development Icons"/>
+        <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift" alt="Mobile Development Icons"/>
       </p>
       <p>
-        Kotlin • Android Studio • Android • Swift • SwiftUI • Xcode • Google Play • App Store
+        Kotlin • Android Studio • Swift • SwiftUI • Xcode • Google Play • App Store
       </p>
     </td>
     <td width="50%" align="center" valign="top">
