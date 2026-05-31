@@ -223,15 +223,15 @@
 
 <table>
   <tr>
-    <td width="33%" align="center" valign="top">
-      <h2>Languages</h2>
-      <p>
-        <img src="https://skillicons.dev/icons?i=java,c,cs,ts,js" alt="Programming Languages Icons"/>
-      </p>
-      <p>
-        Java • C • C# • TypeScript • JavaScript
-      </p>
-    </td>
+<td width="33%" align="center" valign="top">
+  <h2>Languages & Frontend</h2>
+  <p>
+    <img src="https://skillicons.dev/icons?i=java,c,cs,ts,js,react" alt="Languages and Frontend Icons"/>
+  </p>
+  <p>
+    Java • C • C# • TypeScript • JavaScript • React
+  </p>
+</td>
     <td width="33%" align="center" valign="top">
       <h2>Databases & Tools</h2>
       <p>
