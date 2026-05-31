@@ -22,11 +22,11 @@
 
 ## 👨‍💻 About Me
 
-Hi, I’m **Ron Golan**, a Computer Science student and mobile developer who loves building apps from idea to real release.
+Hi, I’m **Ron Golan**, a Computer Science student and mobile developer who enjoys building apps from idea to real release.
 
-My main focus today is **Mobile Development**, especially building complete Android and iOS apps with great user experience, clean structure, backend integration, and support for real users.
+My main focus today is **Mobile Development**, especially Android and iOS apps that combine clean architecture, modern design, backend integration, localization, and real-world deployment.
 
-I enjoy creating apps that are not just code, but complete products with design, logic, data, authentication, localization, deployment, and store publishing.
+I like creating apps that are not just code, but complete products with design, logic, data, authentication, cloud services, app store assets, and production updates.
 
 ---
 
@@ -70,7 +70,7 @@ I enjoy creating apps that are not just code, but complete products with design,
     <td width="50%">
       <h3>🎨 UI & User Experience</h3>
       <p>
-        Creating clean, modern, simple and user-friendly interfaces with attention to small details, RTL support, and smooth flows.
+        Creating clean, modern and user-friendly interfaces with attention to small details, RTL support, and smooth user flows.
       </p>
     </td>
   </tr>
@@ -82,7 +82,7 @@ I enjoy creating apps that are not just code, but complete products with design,
       </p>
     </td>
     <td width="50%">
-      <h3>🌍 Real World Apps</h3>
+      <h3>🌍 Real-World Apps</h3>
       <p>
         Publishing apps, improving production features, handling localization, maps, authentication, app store assets, and updates.
       </p>
@@ -97,19 +97,19 @@ I enjoy creating apps that are not just code, but complete products with design,
 ### 📱 Mobile
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,android,swift,firebase" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,android,swift,firebase" alt="Mobile Tech Stack" />
 </p>
 
 ### ☁️ Backend, Cloud & Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,cloudflare,mongodb,postgresql,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,flask,cloudflare,mongodb,postgresql,nodejs" alt="Backend Tech Stack" />
 </p>
 
 ### 💻 Languages & Tools I’ve Used
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,cs,ts,js,git,github,githubactions,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=java,c,cs,ts,js,git,github,githubactions,vscode,visualstudio" alt="Languages and Tools" />
 </p>
 
 ---
@@ -119,7 +119,7 @@ I enjoy creating apps that are not just code, but complete products with design,
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-Android%20Development-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-iOS%20Development-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-Authentication%20%26%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase-Auth%20%7C%20Firestore%20%7C%20App%20Check-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Cloudflare-Cloud%20Tools-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Backend%20%26%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
@@ -147,22 +147,17 @@ More apps are coming soon 🚀
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=rongo270&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" 
-    alt="Ron Golan GitHub Stats" 
-  />
+  <img src="https://img.shields.io/github/followers/rongo270?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/rongo270?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rongo270&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    alt="Top Languages" 
-  />
+  <img src="https://img.shields.io/badge/Focus-Mobile%20Development-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Main%20Stack-Kotlin%20%7C%20Swift%20%7C%20Firebase-00C853?style=for-the-badge" />
 </p>
-
 
 ---
 
