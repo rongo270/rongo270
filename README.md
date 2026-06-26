@@ -1,69 +1,59 @@
+<!-- ============================ HERO ============================ -->
 <div align="center">
 
-<h1>Ron Golan</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:38BDF8,100:7C3AED&height=200&text=Ron%20Golan&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Developer%20%C2%B7%20Cybersecurity&descAlignY=60&descSize=20&animation=fadeIn" alt="Ron Golan — Mobile Developer and Cybersecurity" />
 
-<h3>Fourth-Year Computer Science Student | Mobile Developer | Android & iOS</h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=620&height=42&lines=%24+ship+real+mobile+apps;%24+build+security+tools+that+find+real+bugs;%24+Android+%C2%B7+iOS+%C2%B7+SAST+%C2%B7+ML+phishing" alt="Terminal typing" />
 
-<p>
-  Building real-world mobile apps from idea to release.
-</p>
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Open%20for%20Work-Mobile%20Developer-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Open for Work"/>
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=00D084&center=true&vCenter=true&width=950&lines=Mobile+Developer;Cybersecurity" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-Mobile%20%26%20Security-34D399?style=for-the-badge&labelColor=0B1020" alt="Open to work: Mobile and Security"/>
+&nbsp;
+<img src="https://img.shields.io/badge/B.Sc.%20Computer%20Science-Graduating%20Aug%202026-22D3EE?style=for-the-badge&labelColor=0B1020" alt="B.Sc. Computer Science, graduating August 2026"/>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/ron-golan-27171028b/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1020" alt="LinkedIn"/>
 </a>
 <a href="https://rongo270.github.io/my-portfolio" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0B1020" alt="Portfolio"/>
 </a>
 <a href="https://play.google.com/store/apps/developer?id=rongo" target="_blank">
-  <img src="https://img.shields.io/badge/-Google%20Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
+  <img src="https://img.shields.io/badge/Google%20Play-34D399?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=0B1020" alt="Google Play"/>
 </a>
 <a href="https://apps.apple.com/us/developer/ron-golan/id6772835016" target="_blank">
-  <img src="https://img.shields.io/badge/-App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"/>
+  <img src="https://img.shields.io/badge/App%20Store-22D3EE?style=for-the-badge&logo=appstore&logoColor=white&labelColor=0B1020" alt="App Store"/>
 </a>
 
 </div>
 
 <br/>
 
+<!-- ============================ ABOUT + FOCUS ============================ -->
 <table>
   <tr>
-    <td width="58%" valign="top">
-      <h2>👨‍💻 About Me</h2>
-      <h3>👋 Hi, I’m Ron Golan</h3>
+    <td width="60%" valign="top">
+      <h2>👋 About</h2>
       <p>
-        A <b>fourth-year Computer Science student at Afeka College of Engineering</b>, about to complete my degree in <b>August 2026</b>, and a mobile developer focused on building complete apps from idea to real release.
+        I'm <b>Ron Golan</b>, a fourth-year Computer Science student at <b>Afeka College of Engineering</b>, graduating <b>August 2026</b>.
       </p>
       <p>
-        My main focus is <b>Mobile Development</b>, especially Android and iOS apps that combine clean architecture, modern UI, backend integration, cloud services, authentication, data management, and production deployment.
-      </p>
-      <p>
-        I enjoy turning ideas into real products with design, logic, data, testing, publishing, and future updates.
+        I build in two worlds: I <b>ship polished mobile apps</b> to the App Store and Google Play, and I <b>build security tools</b> that scan apps and source code for real risks. I like taking an idea all the way to something real people can install — and trust.
       </p>
     </td>
-    <td width="42%" valign="top">
-      <h2>🎯 Current Focus</h2>
+    <td width="40%" valign="top">
+      <h2>🎯 Focus</h2>
       <p>
-        <b>📱 Mobile Apps</b><br/>
-        Android (Kotlin) · iOS (Swift, SwiftUI)
+        <b>📱 Mobile</b><br/>
+        Android (Kotlin) · iOS (SwiftUI) — shipped &amp; published
       </p>
       <p>
-        <b>🛡️ Cybersecurity</b><br/>
-        Security tools, static analysis, ML phishing detection
+        <b>🛡️ Security</b><br/>
+        Static analysis · malware scanning · ML phishing detection
       </p>
       <p>
-        <b>🎓 Graduating</b><br/>
-        Computer Science degree, August 2026
-      </p>
-      <p>
-        <b>💼 Open for Work</b><br/>
+        <b>💼 Open to</b><br/>
         Mobile Developer / Cybersecurity roles
       </p>
     </td>
@@ -72,268 +62,150 @@
 
 <br/>
 
-<!-- ============ VIEW SWITCH (Mobile = this page · Cybersecurity = CYBER.md) ============ -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:7C3AED&height=2" alt="" />
+</div>
+
+<!-- ============================ MOBILE ============================ -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/Mobile%20Developer-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Developer (current view)"/>
-&nbsp;&nbsp;
-<a href="https://github.com/rongo270/rongo270/blob/main/CYBER.md">
-  <img src="https://img.shields.io/badge/Cybersecurity-30363D?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Switch to Cybersecurity view"/>
+<img src="https://img.shields.io/badge/MOBILE-0B1020?style=for-the-badge&logo=android&logoColor=22D3EE" alt="Mobile"/>
+
+<h2>Apps I've shipped</h2>
+
+<img width="170" height="170" alt="CheckChange app icon" src="https://github.com/user-attachments/assets/2c19366d-947f-49ad-9f42-3a40e850ecc1" />
+
+<h3>CheckChange &nbsp;·&nbsp; iOS &amp; Android</h3>
+
+<p>
+  Know the <b>real</b> cost of paying abroad or online — currency conversion, card fees,<br/>
+  discounts, and cash-withdrawal math, so you see the true final amount <b>before</b> you pay.
+</p>
+
+<a href="https://play.google.com/store/apps/details?id=com.rongo.checkchange&pcampaignid=web_share" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Play-34D399?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=0B1020" alt="CheckChange on Google Play"/>
 </a>
-
-<p><i>↔ You're viewing my <b>Mobile</b> work — click <b>Cybersecurity</b> to switch.</i></p>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="200" height="190" alt="checkchange-icon" src="https://github.com/user-attachments/assets/2c19366d-947f-49ad-9f42-3a40e850ecc1" />
-
-<h2>CheckChange</h2>
-
-<p>
-  My first published mobile app, available on both Android and iOS.
-</p>
-
-<p>
-  CheckChange helps users estimate the real cost of payments abroad or online.
-</p>
-
-<p>
-  The app combines currency conversion, discounts, cash withdrawal calculations, and one of its key features:
-  <b>card fee calculations that help users understand the real final amount before they pay</b>.
-</p>
-
-</div>
-
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h2>🤖 Android</h2>
-      <p>
-        Built and published for Android with a real production release flow.
-      </p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" alt="Android Development Icons"/>
-      </p>
-      <p>
-        <b>Kotlin</b> • <b>Android Studio</b>
-      </p>
-      <p>
-        Android app development, release preparation, Google Play store page, testing, and updates.
-      </p>
-      <a href="https://play.google.com/store/apps/details?id=com.rongo.checkchange&pcampaignid=web_share" target="_blank">
-        <img src="https://img.shields.io/badge/-Open%20on%20Google%20Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="CheckChange on Google Play"/>
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h2>🍎 iOS</h2>
-      <p>
-        Built and published for iOS with clean screens and App Store release flow.
-      </p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=swift" alt="iOS Development Icons"/>
-      </p>
-      <p>
-        <b>Swift</b> • <b>SwiftUI</b>
-      </p>
-      <p>
-        iOS app development, App Store release, interface polish, store assets, testing, and updates.
-      </p>
-      <a href="https://apps.apple.com/us/app/checkchange/id6772835014" target="_blank">
-        <img src="https://img.shields.io/badge/-Open%20on%20App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="CheckChange on App Store"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-<details>
-<summary>
-  <img src="https://img.shields.io/badge/Upcoming%20Apps-30363D?style=for-the-badge&logo=rocket&logoColor=white" alt="Upcoming Apps"/>
-</summary>
-
-<br/>
-
-<p><b>Coming next week</b> — new <b>games</b>, <b>tools</b>, and a <b>workout</b> app.</p>
-
-<p><i>New app icons will appear here as they launch — click each one to see what it does.</i></p>
-
-</details>
-
-</div>
-
-<br/>
-
-<table>
-  <tr>
-    <td align="center">
-      <h1>🔥 What I’m Working On Now</h1>
-      <p>
-        I’m currently building more mobile apps and improving my skills across Android, iOS, Firebase, backend services, cloud tools, and real-world product deployment.
-      </p>
-      <p>
-        I’m also working on additional app ideas, including a mobile project connected to a collaboration with the Tel Aviv Municipality.
-      </p>
-      <h3>More apps are coming soon 🚀</h3>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h1 align="center">🧭 Main Development Areas</h1>
-
-<table>
-  <tr>
-    <td width="25%" align="center" valign="top">
-      <h2>📱</h2>
-      <h3>Mobile Apps</h3>
-      <p>
-        Android and iOS apps with real product structure, scalable screens, and release-ready features.
-      </p>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <h2>🏗️</h2>
-      <h3>Architecture</h3>
-      <p>
-        Clear separation between UI, logic, data, services, repositories, models, and backend communication.
-      </p>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <h2>☁️</h2>
-      <h3>Cloud Integration</h3>
-      <p>
-        Firebase, Firestore, APIs, authentication, server logic, and data-driven app features.
-      </p>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <h2>🚀</h2>
-      <h3>Release Flow</h3>
-      <p>
-        Store pages, icons, screenshots, testing, publishing, updates, and product improvements.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h1 align="center">🛠️ Tech Stack</h1>
-
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h2>📱 Mobile Development</h2>
-      <p>
-        <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift" alt="Mobile Development Icons"/>
-      </p>
-      <p>
-        Kotlin • Android Studio • Swift • SwiftUI • Xcode • Google Play • App Store
-      </p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h2>☁️ Backend & Cloud</h2>
-      <p>
-        <img src="https://skillicons.dev/icons?i=firebase,cloudflare,python,cs" alt="Backend and Cloud Icons"/>
-      </p>
-      <p>
-        Firebase • Firestore • Cloudflare • Python • C# • APIs
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h1 align="center">💻 Additional Languages & Tools</h1>
-
-<table>
-  <tr>
-<td width="33%" align="center" valign="top">
-  <h2>Languages & Frontend</h2>
-  <p>
-    <img src="https://skillicons.dev/icons?i=java,c,cs,ts,js,react" alt="Languages and Frontend Icons"/>
-  </p>
-  <p>
-    Java • C • C# • TypeScript • JavaScript • React
-  </p>
-</td>
-    <td width="33%" align="center" valign="top">
-      <h2>Databases & Tools</h2>
-      <p>
-        <img src="https://skillicons.dev/icons?i=mongodb,postgresql,git,github,vscode,visualstudio" alt="Databases and Tools Icons"/>
-      </p>
-      <p>
-        MongoDB • PostgreSQL • Git • GitHub • VS Code • Visual Studio
-      </p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h2>AI Tools</h2>
-      <p>
-        <img src="https://img.shields.io/badge/ChatGPT%20%2B%20Codex-111827?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT and Codex"/>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-        <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
-      </p>
-      <p>
-        ChatGPT • Codex • Claude • Gemini
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h1 align="center">✨ What I Like Building</h1>
-
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h2>📲</h2>
-      <h3>Complete Apps</h3>
-      <p>
-        Mobile apps with screens, logic, data, user accounts, settings, and release preparation.
-      </p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h2>☁️</h2>
-      <h3>Connected Products</h3>
-      <p>
-        Apps connected to cloud services, databases, APIs, and real backend features.
-      </p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h2>🧩</h2>
-      <h3>Useful Tools</h3>
-      <p>
-        Practical tools that solve real everyday problems in a simple and clear way.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-<h1>🌐 Connect With Me</h1>
-
-<a href="https://www.linkedin.com/in/ron-golan-27171028b/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://rongo270.github.io/my-portfolio" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+<a href="https://apps.apple.com/us/app/checkchange/id6772835014" target="_blank">
+  <img src="https://img.shields.io/badge/App%20Store-22D3EE?style=for-the-badge&logo=appstore&logoColor=white&labelColor=0B1020" alt="CheckChange on App Store"/>
 </a>
 
 <br/><br/>
 
-<h3>Thanks for visiting my profile 😊</h3>
+<sub>MORE SHIPPING SOON</sub><br/>
+<img src="https://img.shields.io/badge/Games-1F2937?style=flat-square&labelColor=0B1020" alt="Games"/>
+<img src="https://img.shields.io/badge/Tools-1F2937?style=flat-square&labelColor=0B1020" alt="Tools"/>
+<img src="https://img.shields.io/badge/Workout-1F2937?style=flat-square&labelColor=0B1020" alt="Workout"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:34D399,100:22D3EE&height=2" alt="" />
+</div>
+
+<!-- ============================ SECURITY ============================ -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/SECURITY-0B1020?style=for-the-badge&logo=hackthebox&logoColor=34D399" alt="Security"/>
+
+<h2>Tools I've built</h2>
+
+<p>Static analysis, on-device threat detection, and machine learning — most of it runs 100% locally.</p>
+
+</div>
+
+<table>
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <img width="76" height="76" alt="AntiPhishing icon — upload your own to replace this placeholder" src="https://placehold.co/120x120/0B1020/58A6FF/png?text=AntiPhishing" />
+      <h3>AntiPhishing</h3>
+      <p>ML-powered phishing detection — analyzes URLs and messages and flags phishing with machine learning.</p>
+      <img src="https://img.shields.io/badge/Final%20Project%20%C2%B7%20July%208-F59E0B?style=for-the-badge&logo=googlescholar&logoColor=0B1020" alt="Final Project, July 8"/>
+      <br/>
+      <sub><i>Presented at Afeka College</i></sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img width="76" height="76" alt="APKInspect logo" src="https://raw.githubusercontent.com/rongo270/APKInspect/main/assets/icon.png" />
+      <h3>APKInspect</h3>
+      <p>Static security scanner for Android APK/AAB — drag in an app, get a safety score 100→0 with a fix per finding. Zero-dependency Python, 100% local.</p>
+      <a href="https://github.com/rongo270/APKInspect" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="APKInspect repository"/>
+      </a>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img width="76" height="76" alt="SafeTheCode logo" src="https://raw.githubusercontent.com/rongo270/SafeTheCode/main/assets/safethecode.png" />
+      <h3>SafeTheCode</h3>
+      <p>Source-code scanner (SAST) for Python, JS/TS and React — traces untrusted input and explains what's wrong, why, and how to fix it. 100% local.</p>
+      <a href="https://github.com/rongo270/SafeTheCode" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="SafeTheCode repository"/>
+      </a>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img width="76" height="76" alt="RiskScope icon — upload your own to replace this placeholder" src="https://placehold.co/120x120/0B1020/34D399/png?text=RiskScope" />
+      <h3>RiskScope</h3>
+      <p>Android threat scanner — hashes every installed APK (SHA-256) against a threat DB plus on-device heuristics → <b>DANGER / WATCH / SAFE</b>.</p>
+      <a href="https://github.com/rongo270/RiskScope" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="RiskScope repository"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:7C3AED&height=2" alt="" />
+</div>
+
+<!-- ============================ TECH ============================ -->
+<div align="center">
+
+<h2>🛠️ Tech</h2>
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>📱 Mobile</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift,xcode,firebase" alt="Mobile stack"/>
+      </p>
+      <p><sub>Kotlin · Android Studio · Swift · SwiftUI · Xcode · Firebase</sub></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>🛡️ Security &amp; Backend</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=python,cs,cloudflare,git,github" alt="Security and backend stack"/>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/SAST-7C3AED?style=flat-square&labelColor=0B1020" alt="SAST"/>
+        <img src="https://img.shields.io/badge/SARIF-1F2937?style=flat-square&labelColor=0B1020" alt="SARIF"/>
+        <img src="https://img.shields.io/badge/Machine%20Learning-F59E0B?style=flat-square&labelColor=0B1020" alt="Machine Learning"/>
+        <img src="https://img.shields.io/badge/Ollama-1F2937?style=flat-square&logo=ollama&logoColor=white&labelColor=0B1020" alt="Ollama"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <p><sub>Also comfortable with</sub></p>
+  <img src="https://skillicons.dev/icons?i=java,c,ts,js,react,mongodb,postgresql,vscode" alt="Other tools"/>
+</div>
+
+<br/>
+
+<!-- ============================ FOOTER ============================ -->
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ron-golan-27171028b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1020" alt="LinkedIn"/>
+</a>
+<a href="https://rongo270.github.io/my-portfolio" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0B1020" alt="Portfolio"/>
+</a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=70&text=Thanks%20for%20visiting&fontSize=17&fontColor=ffffff&fontAlignY=55" alt="Thanks for visiting" />
 
 </div>
