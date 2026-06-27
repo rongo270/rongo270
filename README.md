@@ -9,11 +9,11 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Open%20for%20Work-Mobile%20%26%20Security-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Open for Work"/>
+  <img src="https://img.shields.io/badge/Open%20for%20Work-Full--time%20Job-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Open for full-time job"/>
   <img src="https://img.shields.io/badge/B.Sc.%20Computer%20Science-Graduating%20Aug%202026-38BDF8?style=for-the-badge&logoColor=white" alt="Graduating August 2026"/>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=00D084&center=true&vCenter=true&width=950&lines=Mobile+apps+from+idea+to+the+App+Store;Android+%7C+Kotlin+%7C+Firebase;iOS+%7C+Swift+%7C+SwiftUI;Cybersecurity+%7C+SAST+%7C+ML+phishing+detection;Open+for+Mobile+%26+Security+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=800&color=00D084&center=true&vCenter=true&width=600&lines=Cyber+Security;Mobile+Developer;Open+for+full-time+job" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -42,7 +42,7 @@
         Hi, I’m <b>Ron Golan</b>, a <b>fourth-year Computer Science student at Afeka College of Engineering</b>, graduating <b>August 2026</b>.
       </p>
       <p>
-        I build in two worlds: I <b>ship polished mobile apps</b> to the App Store and Google Play, and I <b>build cybersecurity tools</b> that scan apps and source code for real risks — from static analysis to ML-powered phishing detection.
+        I build in two worlds: I <b>ship polished mobile apps</b> to the App Store and Google Play, and I <b>build cybersecurity tools</b> that scan apps and source code for real risks - from static analysis to ML-powered phishing detection.
       </p>
       <p>
         I like taking an idea all the way to something real people can install, use, and trust.
@@ -52,7 +52,7 @@
       <h2>🎯 Focus</h2>
       <p>
         <b>📱 Mobile</b><br/>
-        Android (Kotlin) · iOS (Swift, SwiftUI) — shipped &amp; published
+        Android (Kotlin) · iOS (Swift, SwiftUI) - shipped &amp; published
       </p>
       <p>
         <b>🛡️ Security</b><br/>
@@ -60,7 +60,7 @@
       </p>
       <p>
         <b>💼 Open to</b><br/>
-        Mobile Developer / Cybersecurity roles
+        A full-time job - Mobile Developer or Cybersecurity
       </p>
     </td>
   </tr>
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-<h1>📱 Mobile — Apps I’ve Shipped</h1>
+<h1>📱 Mobile - Apps I’ve Shipped</h1>
 
 <img width="170" height="170" alt="CheckChange app icon" src="https://github.com/user-attachments/assets/2c19366d-947f-49ad-9f42-3a40e850ecc1" />
 
@@ -81,7 +81,7 @@
 </p>
 
 <p>
-  CheckChange helps you estimate the real cost of payments made abroad or online —<br/>
+  CheckChange helps you estimate the real cost of payments made abroad or online -<br/>
   combining currency conversion, discounts, cash-withdrawal costs, and <b>card fee calculations</b>,<br/>
   so you see the true final amount <b>before</b> you pay.
 </p>
@@ -97,7 +97,14 @@
   <img src="https://img.shields.io/badge/-App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="CheckChange on App Store"/>
 </a>
 
-<p><sub>More apps on the way 🚀</sub></p>
+<br/><br/>
+
+<h3>🚀 Many more coming - next week, and bigger</h3>
+
+<p>CheckChange is just the first. A bigger wave of apps ships <b>next week</b>.</p>
+
+<img src="https://img.shields.io/badge/Next%20week-Bigger%20apps%20incoming-38BDF8?style=flat-square&labelColor=0B1020" alt="Next week"/>
+<img src="https://img.shields.io/badge/iOS%20%26%20Android-More%20on%20the%20way-3DDC84?style=flat-square&labelColor=0B1020" alt="More on the way"/>
 
 </div>
 
@@ -105,9 +112,9 @@
 
 <div align="center">
 
-<h1>🛡️ Cybersecurity — Tools I’ve Built</h1>
+<h1>🛡️ Cybersecurity - Tools I’ve Built</h1>
 
-<p>Static analysis, on-device threat detection, and machine learning — all open source.</p>
+<p>Static analysis, on-device threat detection, and machine learning - all open source.</p>
 
 </div>
 
@@ -116,7 +123,7 @@
     <td width="50%" valign="top">
       <h3>🛡️ AntiPhishing &nbsp;<sub>🎓 Final project</sub></h3>
       <p>
-        An ML-powered system that detects phishing in real time — extracting URL and content
+        An ML-powered system that detects phishing in real time - extracting URL and content
         features and classifying links as phishing or safe, served through a Dockerized Python API.
       </p>
       <p>
@@ -130,7 +137,7 @@
       <h3>📦 APKInspect</h3>
       <p>
         A zero-dependency Python scanner for Android APK/AAB files. Static analysis flags hard-coded
-        secrets, exported components, weak signing and dangerous permissions, then scores app safety 0–100.
+        secrets, exported components, weak signing and dangerous permissions, then scores app safety 0-100.
       </p>
       <p>
         <code>Python</code> <code>Static analysis</code> <code>Android</code>
@@ -144,7 +151,7 @@
     <td width="50%" valign="top">
       <h3>🐞 SafeTheCode</h3>
       <p>
-        A local SAST tool that finds security bugs — SQLi, XSS, path traversal — and explains each in
+        A local SAST tool that finds security bugs - SQLi, XSS, path traversal - and explains each in
         plain English with the exact fix. Uses tree-sitter parsing and taint analysis, mapped to the OWASP Top 10.
       </p>
       <p>
@@ -158,7 +165,7 @@
       <h3>🦠 RiskScope</h3>
       <p>
         An Android app that scans every installed app, hashes its APK and checks it against a threat
-        database to detect malware — combining remote verification with on-device heuristics to flag
+        database to detect malware - combining remote verification with on-device heuristics to flag
         apps as DANGER, WATCH or SAFE.
       </p>
       <p>
