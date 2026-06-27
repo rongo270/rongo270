@@ -2,7 +2,7 @@
 
 <h1>Ron Golan</h1>
 
-<h3>Computer Science Student · Mobile Developer · Cybersecurity</h3>
+<h3> Mobile Developer · Cybersecurity</h3>
 
 <p>
   Shipping real mobile apps, and building security tools that find real bugs.
