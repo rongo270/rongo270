@@ -72,38 +72,67 @@
 
 <h1>📱 Mobile - Apps I’ve Shipped</h1>
 
-<img width="170" height="170" alt="CheckChange app icon" src="https://github.com/user-attachments/assets/2c19366d-947f-49ad-9f42-3a40e850ecc1" />
+<p>Every app below is <b>live on both Android and iOS</b> - written twice, natively:<br/>
+Kotlin + Jetpack Compose on Android, Swift + SwiftUI on iOS.</p>
 
-<h2>CheckChange</h2>
+</div>
 
-<p>
-  My first published app, live on both <b>Android and iOS</b>.
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img width="150" height="150" alt="CheckChange app icon" src="https://github.com/user-attachments/assets/2c19366d-947f-49ad-9f42-3a40e850ecc1" />
+      <h2>CheckChange</h2>
+      <p><i>My first published app - Android &amp; iOS</i></p>
+      <p>
+        CheckChange helps you estimate the real cost of payments made abroad or online -
+        combining currency conversion, discounts, cash-withdrawal costs, and
+        <b>card fee calculations</b>, so you see the true final amount <b>before</b> you pay.
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift,firebase" alt="CheckChange tech"/>
+      </p>
+      <p>
+        <a href="https://play.google.com/store/apps/details?id=com.rongo.checkchange&pcampaignid=web_share" target="_blank">
+          <img src="https://img.shields.io/badge/-Google%20Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="CheckChange on Google Play"/>
+        </a>
+        <a href="https://apps.apple.com/us/app/checkchange/id6772835014" target="_blank">
+          <img src="https://img.shields.io/badge/-App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="CheckChange on App Store"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img width="150" height="150" alt="TimeOut app icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/13/67/48136794-cef7-663c-ff4f-466b10720aa2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" />
+      <h2>TimeOut</h2>
+      <p><i>Workout builder &amp; interval timer - Android &amp; iOS</i></p>
+      <p>
+        Build your own workouts from a <b>440+ exercise library</b>, run them on a clean
+        interval timer, and track history, personal records and progress charts.
+        Then <b>share a whole workout with a friend</b> - as a short link, or
+        <b>phone-to-phone over Bluetooth</b>, <b>even between Android and iPhone</b>.
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift,sqlite" alt="TimeOut tech"/>
+      </p>
+      <p>
+        <a href="https://play.google.com/store/apps/details?id=com.rongo.timeout" target="_blank">
+          <img src="https://img.shields.io/badge/-Google%20Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="TimeOut on Google Play"/>
+        </a>
+        <a href="https://apps.apple.com/us/app/timeout/id6779638646" target="_blank">
+          <img src="https://img.shields.io/badge/-App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="TimeOut on App Store"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p>
-  CheckChange helps you estimate the real cost of payments made abroad or online -<br/>
-  combining currency conversion, discounts, cash-withdrawal costs, and <b>card fee calculations</b>,<br/>
-  so you see the true final amount <b>before</b> you pay.
-</p>
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift,firebase" alt="CheckChange tech"/>
-</p>
 
-<a href="https://play.google.com/store/apps/details?id=com.rongo.checkchange&pcampaignid=web_share" target="_blank">
-  <img src="https://img.shields.io/badge/-Google%20Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="CheckChange on Google Play"/>
-</a>
-<a href="https://apps.apple.com/us/app/checkchange/id6772835014" target="_blank">
-  <img src="https://img.shields.io/badge/-App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="CheckChange on App Store"/>
-</a>
+<h3>🚀 More apps on the way</h3>
 
-<br/><br/>
+<p>CheckChange and TimeOut are just the start - more apps are shipping soon, on both stores.</p>
 
-<h3>🚀 Many more coming - next week, and bigger</h3>
-
-<p>CheckChange is just the first. A bigger wave of apps ships <b>next week</b>.</p>
-
-<img src="https://img.shields.io/badge/Next%20week-Bigger%20apps%20incoming-38BDF8?style=flat-square&labelColor=0B1020" alt="Next week"/>
+<img src="https://img.shields.io/badge/Coming%20soon-Bigger%20apps%20incoming-38BDF8?style=flat-square&labelColor=0B1020" alt="Coming soon"/>
 <img src="https://img.shields.io/badge/iOS%20%26%20Android-More%20on%20the%20way-3DDC84?style=flat-square&labelColor=0B1020" alt="More on the way"/>
 
 </div>
@@ -189,7 +218,7 @@
       <p>
         <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift" alt="Mobile icons"/>
       </p>
-      <p>Kotlin • Android Studio • Swift • SwiftUI • Xcode</p>
+      <p>Kotlin • Jetpack Compose • Android Studio • Swift • SwiftUI • Xcode • Room / SQLite • BLE</p>
     </td>
     <td width="50%" align="center" valign="top">
       <h3>🛡️ Security & Backend</h3>
